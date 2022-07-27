@@ -1,4 +1,4 @@
-[![enwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=enwi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![enwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=enwi&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![enwi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enwi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
